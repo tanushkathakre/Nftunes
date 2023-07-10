@@ -1,0 +1,15 @@
+.exit
+symbol
+const symbol = await contract.symbol()
+const name = await contract.symbol()
+ name
+const name = await contract.name()
+URI
+const URI = await contract.baseURI()
+contract
+const contract = await ethers.getContractAt("MusicNFTMarketplace", "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0")
+const contract=await ethers.getContractAt("MusicNFTMarketplace", "0x5FbDB2315678afecb367f032d93F642f64180aa3")
+URI
+const URI = await contract.baseURI()
+contract
+const contract=await ethers.getContractAt("MusicNFTMarketplace", " 0x5FbDB2315678afecb367f032d93F642f64180aa3")64180aa3")
